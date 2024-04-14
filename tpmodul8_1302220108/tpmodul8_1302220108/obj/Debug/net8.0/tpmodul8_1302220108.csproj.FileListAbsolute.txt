@@ -1,0 +1,35 @@
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.exe
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.deps.json
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.runtimeconfig.json
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.pdb
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.csproj.AssemblyReference.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.AssemblyInfoInputs.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.AssemblyInfo.cs
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.csproj.CoreCompileInputs.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8.8942CBD6.Up2Date
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\refint\tpmodul8_1302220108.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.pdb
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.genruntimeconfig.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\ref\tpmodul8_1302220108.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.exe
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.deps.json
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.runtimeconfig.json
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\tpmodul8_1302220108.pdb
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.csproj.AssemblyReference.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.AssemblyInfoInputs.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.AssemblyInfo.cs
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.csproj.CoreCompileInputs.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.sourcelink.json
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8.8942CBD6.Up2Date
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\refint\tpmodul8_1302220108.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.pdb
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\tpmodul8_1302220108.genruntimeconfig.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\Minggu 8\tpmodul8_1302220108\tpmodul8_1302220108\obj\Debug\net8.0\ref\tpmodul8_1302220108.dll
